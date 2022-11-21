@@ -16,6 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Pel-culas-Flutter
 
+Esta aplicaciòn hace parte del seguimiento al curso de Udemy de Introducciòn a Flutter.
+
 ![image](https://user-images.githubusercontent.com/93236919/203132177-0f4bfe2c-6749-4d73-8f46-6fe8eceb147c.png)
 
 ![image](https://user-images.githubusercontent.com/93236919/203132235-ae6bed1b-8fe3-4c14-884d-60260291cb0e.png)
